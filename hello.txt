@@ -1,3 +1,2 @@
-
-sample
-sample text for hello.txt
+Carter Comeau - 101253879
+Git respository created from AWS EC2 Instance
